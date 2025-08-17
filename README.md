@@ -1,6 +1,7 @@
 # Hi there, I'm Emna 👋
 
 🚀 **Aspiring IT Business Student** | **Passionate about Cybersecurity & Aerospace Technology** 🌌
+![gif](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTdnMjYxa3E3eDh4czhhZzRka3V1b3c0eTJ2aDcxdHM1czdqaXY1MCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/fx6Ynu2Hy1HYmsARdw/giphy.gif)
 
 I love exploring how **technology and space science** intersect — from analyzing datasets to building tools that spark creativity and innovation.
 
@@ -38,7 +39,7 @@ I love exploring how **technology and space science** intersect — from analyzi
 ## 🌌 A Little More About Me
 
 - 🛡️ Currently learning **cybersecurity** and ethical hacking principles
-- Exploring **software development** and innovative tech solutions
+- 💻 Exploring **software development** and innovative tech solutions
 - ✨ Passionate about **aerospace, astrophysics, and space exploration**
 - 💡 I believe in blending **technology, creativity, and curiosity** to solve problems
 - 🎯 My goal: to one day contribute to **aerospace & space technology projects**
